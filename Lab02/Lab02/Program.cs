@@ -2,7 +2,7 @@
 // Name: สุธิพงษ์ ชาวนาแปน
 // Section: -
 // No.: -
-using System;
+using System; 
 
 // ==================== Part A ====================
 
