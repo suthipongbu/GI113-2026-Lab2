@@ -1,5 +1,5 @@
 // Student ID: 1690704224
-// Name: สุธิพงษ์ ชาวนาแฝง
+// Name: สุธิพงษ์ ชาวนาแปน
 // Section: -
 // No.: -
 using System;
